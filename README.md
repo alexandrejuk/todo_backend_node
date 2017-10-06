@@ -1,2 +1,2 @@
 # todo_backend_node
-Todo in nodejs and mongod 
+Todo in nodejs and mongodb
